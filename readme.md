@@ -1,1 +1,1 @@
-Site is rendered through https://lamtharnhantrakul.github.io/diffwts
+Please visit https://lamtharnhantrakul.github.io/diffwts.github.io/
